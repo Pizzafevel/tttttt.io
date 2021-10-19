@@ -1,0 +1,197 @@
+.dd {
+         position: relative;
+         display: inline-block;
+									background-color:skyblue;
+						 float: right;
+      }
+      .dd-btn {
+         padding: 15px;
+         text-align: center;
+         background:white;
+         border: none;
+         width: 200px;
+         color: black;
+						 float: right;
+						 color: black;
+							margin-right:0px;
+						 
+      }
+      .dd-content {
+         position: absolute;
+         width:200px;
+         box-shadow: 0 18px 36px rgba(0,0,0,0.30), 0 14px 11px rgba(0,0,0,0.22);
+         height: 0px;
+         transition: height 1.5s;
+         overflow: hidden;
+							background-color:skyblue;
+							opacity:0.6;
+						 font-size:23px;				  	
+			    color:black;					
+						margin-top:45px;
+			
+						
+      }
+      .dd:hover > .dd-content {
+         height: 450px;
+						 font-size:23px;
+						background-color:skyblue;
+						 opacity:0.6;
+						 height:400px
+						float: right;
+						margin-right:px;
+      }
+      .dd-content > a {
+         display: block;
+         padding: 15px;
+         text-decoration: none;
+         color:white;
+						 font-size:20px;
+						float:right;
+						margin-right:px;
+						
+      }
+			.dd-content a:hover {
+							color:brown;
+							font-size:35px;
+							
+						 font-weight:bold;
+							text-shadow: 3px 4px 4px black;
+			}
+			.dd-content a{
+						color:white;
+						
+			}
+ .pp{
+
+						margin-top:300px;
+						
+
+			}
+.head{
+						border:2px solid black;
+						width:1350px;
+						height:800px;
+						background-image:url('Img/Untitled10_20211010230153.png');
+			}						
+.pp span,p,button{						
+						color:white;
+						opacity:0.9;
+						text-shadow: 5px 5px 5px black;
+								font-family: Georgia, 'Times New Roman', Times, serif;
+			}
+.pp p{						
+						font-size:70px;
+			
+
+			}
+.pp span{
+						font-size:19px;
+					
+						
+}
+.pp button{
+					 
+						width:300px;
+						height:50px;
+						opacity:0.7;
+						color:white;
+						background-color:skyblue;
+						font-size:20px;
+						text-shadow: 5px 5px 5px black;
+						font-weight: bold;
+			}
+						.bh{
+						width:1350px;
+						height:990px;
+						border:2px solid black;
+						background-image:url('Img/Untitled12_20211011121556.png');
+			}
+			.bh h1{
+						font-size:30px;
+						color:black;
+}
+			.bh img{
+						width:200px;
+						height:130px;
+						
+			
+}
+	
+			.bh h4{
+						font-size:22px;
+					 color:black;
+
+}
+.about{
+						float:left;
+						width:1350px;
+						height:900px;
+						border:2px solid black;
+						background-image:url('Img/Untitled18_20211011133039.png');
+			}
+			.about h1{
+						
+						margin-left:800px;
+			}
+		.gy {
+						width:500px;
+						height:500px;
+						background-color: white;
+						border:2px solid black;
+						float:right;
+						margin-right:40px;
+			
+			}
+		.gy p{
+						font-size: 18px;
+								font-family: Georgia, 'Times New Roman', Times, serif;
+			}
+.right{
+						width:500px;
+						height:300px;
+						float:right;
+			}
+			.left{
+						width:500px;
+						height:300px;
+						float:left;
+			}
+.pge{			
+						width:1350px;
+						height:2500px;
+							background-image:url('Img/Untitled19_20211011131612.png');
+						border:1px solid black;
+			}
+.fom input{
+						width:400px;
+						height:50px;
+
+			}
+.fom{
+						width:1350px;
+						height:500px;
+						background-image:url('');
+						
+
+			}
+	.fom button{
+						width:150px;
+						height:50px;
+						color:white;
+						background-color:black;						
+			
+			}
+img.ic{
+      									width:60px;
+      									height:70px;
+												
+      						}
+
+
+			.ar{			
+						float:right;
+						width:80px;
+						height:90px;
+				
+			
+			}
